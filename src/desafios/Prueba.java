@@ -1,4 +1,4 @@
-package Desafios;
+package desafios;
 
 public class Prueba {
 
